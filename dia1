@@ -1,0 +1,26 @@
+# beecrowd | 1000
+# Hello Word
+
+print('Hello World!')
+
+#beecrowd | 1001
+#Extremamente Básico
+
+num=4
+num2=3
+
+soma= num+num2
+
+print(soma)
+
+#beecrowd | 1002
+#Área do Círculo
+
+
+raio=float(input('digite o valor do raio'))
+pi=float(3.14159)
+
+area=int(raio**2 * pi)
+
+print(f'o valor da area e {area}')
+
